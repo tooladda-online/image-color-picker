@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Image Color Picker
+# 🖼️ Image Color Picker
 
 ### Use Image Color Picker free on ToolAdda — quick, accurate, and browser-based.
 
