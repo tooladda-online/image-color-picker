@@ -2,14 +2,14 @@
 
 # 🖼️ Image Color Picker
 
-### Use Image Color Picker free on ToolAdda — quick, accurate, and browser-based.
+### Click any pixel in an image for its exact HEX, RGB, RGBA, HSL, HSV, CMYK, and LAB value — sampled from the true full-resolution pixel data, not a blurry preview. Generate dominant-color palettes, check WCAG contrast, and export straight to CSS, Tailwind, or Bootstrap.
 
 [![Visit Image Color Picker](https://img.shields.io/badge/Visit%20Image%20Color%20Picker-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/image-color-picker.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/image-color-picker.html)
 [![Category](https://img.shields.io/badge/Image%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Use Image Color Picker | ToolAdda to pick colors from any image locally in your browser.**
+**Pick exact colors from any image online free — full-resolution pixel sampling with HEX, RGB, RGBA, HSL, HSV, CMYK &amp; LAB, a live magnifier, dominant-color palette generator, WCAG contrast checker, and CSS/Tailwind/Bootstrap export. 100% in your browser, nothing uploaded.**
 
 [🚀 **Open Image Color Picker Now →**](https://tooladda.online/image-color-picker.html)
 
@@ -92,9 +92,15 @@ Visit tooladda.online — search for Image Color Picker or use the link in this 
 
 <p align="center">
   <code>image color picker</code>&nbsp;
-  <code>free image color picker</code>&nbsp;
-  <code>online image color picker</code>&nbsp;
-  <code>image color picker tooladda</code>&nbsp;
+  <code>pick color from image</code>&nbsp;
+  <code>extract colors from image</code>&nbsp;
+  <code>color palette generator</code>&nbsp;
+  <code>color picker online</code>&nbsp;
+  <code>image color extractor</code>&nbsp;
+  <code>dominant color extractor</code>&nbsp;
+  <code>hex color picker</code>&nbsp;
+  <code>rgb color picker</code>&nbsp;
+  <code>wcag contrast checker</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +117,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Image Color Picker, image color picker, free image color picker, online image color picker, image color picker tooladda, tooladda, free online tool -->
+<!-- SEO: Image Color Picker, image color picker, pick color from image, extract colors from image, color palette generator, color picker online, image color extractor, dominant color extractor, hex color picker, rgb color picker, wcag contrast checker, tooladda, free online tool -->
